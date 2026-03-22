@@ -1,0 +1,10 @@
+1. Intel Core i9-14900K - 24 nhân, 32 luồng, Xung nhịp tối đa 6.0GHz, Socket LGA1700. Giá: 15.500.000đ.
+2. AMD Ryzen 9 7950X - 16 nhân, 32 luồng, Kiến trúc Zen 4, Hỗ trợ DDR5. Giá: 14.800.000đ.
+3. Intel Core i5-13400F - 10 nhân, 16 luồng, CPU game quốc dân không tích hợp iGPU. Giá: 4.800.000đ.
+4. AMD Ryzen 7 7800X3D - 8 nhân, 16 luồng, Công nghệ 3D V-Cache tối ưu cho gaming. Giá: 9.800.000đ.
+5. NVIDIA GeForce RTX 4090 - 24GB GDDR6X, Kiến trúc Ada Lovelace, Hỗ trợ DLSS 3. Giá: 48.000.000đ.
+6. ASUS ROG Strix RTX 4070 Ti SUPER - 16GB GDDR6X, Tản nhiệt 3 quạt hầm hố. Giá: 24.500.000đ.
+7. MSI Radeon RX 7800 XT Gaming Trio - 16GB GDDR6, Đối thủ xứng tầm từ AMD. Giá: 15.200.000đ.
+8. Apple M2 Max Chip - 12 nhân CPU, 30 nhân GPU, Hiệu năng đồ họa vượt trội trên MacBook Pro. Giá: Theo máy.
+9. Qualcomm Snapdragon 8 Gen 3 - Chip mobile mạnh nhất hiện nay trên Android, Tiến trình 4nm. Giá: Theo máy.
+10. Intel Xeon Gold 6248R - 24 nhân, 48 luồng, Dành cho hệ thống máy chủ chuyên nghiệp. Giá: 65.000.000đ.
